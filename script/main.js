@@ -22,7 +22,7 @@ $(document).ready(function() {
     });
   });
 
-  $('#slides').superslides({
+  $('.banner__slides').superslides({
     slide_easing: 'easeInOutCubic',
     slide_speed: 800,
     pagination: false,
